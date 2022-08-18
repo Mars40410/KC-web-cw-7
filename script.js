@@ -12,8 +12,7 @@ function Status(bmi) {
     return "وزنك صحي";
     } else {
         return  "لديك زيادة في الوزن";
-        const body=document.querySelector('body')
-        const text=document.querySelector('')
+        
         
     }   
  }
